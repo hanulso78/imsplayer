@@ -1,7 +1,7 @@
 # imsplayer
 IMS Player: Classic Adlib Sound Format Player
 
-![imsplayer](https://raw.githubusercontent.com/sopepos/imsplayer/master/downloads/imsplayer.png)
+<img width="620" height="600" alt="image" src="https://github.com/user-attachments/assets/59fefecb-d3ae-48e4-b7a6-76a8e8cf6921" />
 
 MS-DOS 시절에 많이 사용되던 애들립 카드의 사운드 포맷중의 하나인 IMS 플레이어입니다.
 당시 애들립 카드는 대부분 야마하사의 YM3812 칩을 사용하였으며, IMS Player 에서는 이 칩을 소프트웨어적으로 시뮬레이션 합니다.
